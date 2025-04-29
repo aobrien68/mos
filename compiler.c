@@ -6,7 +6,7 @@ enum Token {
 	ADD,
 	XOR,
 	SUB,
-
+	LEA,
 }
 
 int main(int argc, char *argv[]) {
