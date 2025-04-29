@@ -15,5 +15,5 @@ int main(int argc, char *argv[]) {
 }
 
 Token getNextToken(FILE *stream) {
-	
+	return INVALID;	
 }
